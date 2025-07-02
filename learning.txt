@@ -1,1 +1,2 @@
+What I have learned from this course
 This week, I learned the basics of Git and GitHub, including how to create and manage repositories, track changes with commits, and use branches for safe feature development. I also practiced collaboration through pull requests and code reviews. Finally, I explored essential Git commands and understood common workflows used in team projects.
